@@ -1,4 +1,5 @@
-# West Nile Virus Prediction - Predict West Nile virus in mosquitos across the city of Chicago
+# Project-West-Nile-Virus-Prediction 
+    
 
  - [Problem Statement](#Problem-Statement)
  - [Data Sources](#Data-Sources)
